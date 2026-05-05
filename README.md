@@ -5,9 +5,9 @@ El objetivo del proyecto fue identificar patrones de uso, detectar comportamient
 
 # Los datasets utilizados:
 
-plans.csv → información de los planes actuales (precio, minutos incluidos, GB incluidos, costo por extra)
-users.csv → información de los clientes (edad, ciudad, fecha de registro, plan, churn)
-usage.csv → detalle del uso real de los servicios (llamadas y mensajes)
+- plans.csv → información de los planes actuales (precio, minutos incluidos, GB incluidos, costo por extra)
+- users.csv → información de los clientes (edad, ciudad, fecha de registro, plan, churn)
+- usage.csv → detalle del uso real de los servicios (llamadas y mensajes)
 
 # Las etapas del análisis realizadas:
 
